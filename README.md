@@ -1,4 +1,4 @@
-# Tugas-Besar-Mata-Kuliah-Aljabar-Geometri-2
+# Linear-Transformation-In-2D
 
 Problem Spesification : http://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2017-2018/Spektubes2_algeo.pdf
 
